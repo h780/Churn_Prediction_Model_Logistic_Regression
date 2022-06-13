@@ -18,7 +18,7 @@ Approach:
 
 1. Importing the required libraries and reading the dataset.
 2. Inspecting and cleaning up the data
-3. Perform data encoding on categorical variables
+3. Performing data encoding on categorical variables
 4. Exploratory Data Analysis (EDA) <br />
    -> Data Visualization <br />
 5. Feature Engineering <br />
@@ -43,7 +43,7 @@ Approach:
 10. Feature Selection
    -> Barrier threshold selection
    -> RFE method
-11. Save the model in the form of a pickle file.
+11. Saving the model in the form of a pickle file.
 
 
 
