@@ -19,25 +19,25 @@ Approach:
 1. Importing the required libraries and reading the dataset.
 2. Inspecting and cleaning up the data
 3. Perform data encoding on categorical variables
-4. Exploratory Data Analysis (EDA)
-   &#9679 Data Visualization
-5. Feature Engineering
-   -> Dropping of unwanted columns
-6. Model Building
-   -> Using the statsmodel library
-7. Model Building
-   -> Performing train test split
-   -> Logistic Regression Model
-8. Model Validation (predictions)
-   -> Accuracy score
-   -> Confusion matrix
-   -> ROC and AUC
-   -> Recall score
-   -> Precision score
-   -> F1-score
-9. Handling the unbalanced data
-   -> With balanced weights
-   -> Random weights
+4. Exploratory Data Analysis (EDA) <br />
+   -> Data Visualization <br />
+5. Feature Engineering <br />
+   -> Dropping of unwanted columns <br />
+6. Model Building <br />
+   -> Using the statsmodel library <br />
+7. Model Building <br /> 
+   -> Performing train test split <br />
+   -> Logistic Regression Model <br />
+8. Model Validation (predictions) <br />
+   -> Accuracy score <br />
+   -> Confusion matrix <br />
+   -> ROC and AUC <br />
+   -> Recall score <br />
+   -> Precision score <br />
+   -> F1-score <br />
+9. Handling the unbalanced data <br />
+   -> With balanced weights <br />
+   -> Random weights <br />
    -> Adjusting imbalanced data
    -> Using SMOTE
 10. Feature Selection
