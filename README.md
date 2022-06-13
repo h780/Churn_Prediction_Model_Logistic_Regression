@@ -20,29 +20,29 @@ Approach:
 2. Inspecting and cleaning up the data
 3. Perform data encoding on categorical variables
 4. Exploratory Data Analysis (EDA)
-    Data Visualization
+   -> Data Visualization
 5. Feature Engineering
-    Dropping of unwanted columns
+   -> Dropping of unwanted columns
 6. Model Building
-    Using the statsmodel library
+   -> Using the statsmodel library
 7. Model Building
-    Performing train test split
-    Logistic Regression Model
+   -> Performing train test split
+   -> Logistic Regression Model
 8. Model Validation (predictions)
-    Accuracy score
-    Confusion matrix
-    ROC and AUC
-    Recall score
-    Precision score
-    F1-score
+   -> Accuracy score
+   -> Confusion matrix
+   -> ROC and AUC
+   -> Recall score
+   -> Precision score
+   -> F1-score
 9. Handling the unbalanced data
-    With balanced weights
-    Random weights
-    Adjusting imbalanced data
-    Using SMOTE
+   -> With balanced weights
+   -> Random weights
+   -> Adjusting imbalanced data
+   -> Using SMOTE
 10. Feature Selection
-    Barrier threshold selection
-    RFE method
+   -> Barrier threshold selection
+   -> RFE method
 11. Save the model in the form of a pickle file.
 
 
