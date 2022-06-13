@@ -20,7 +20,7 @@ Approach:
 2. Inspecting and cleaning up the data
 3. Perform data encoding on categorical variables
 4. Exploratory Data Analysis (EDA)
-   -> Data Visualization
+   &#9679 Data Visualization
 5. Feature Engineering
    -> Dropping of unwanted columns
 6. Model Building
